@@ -8,3 +8,6 @@ The clock fetches the time from your WLAN, so include your WLAN-Routers name and
 Will only work with 2,4GHz-WLANS.
 
 You can change the Color of each digit and the color of the blinking second-bar at the beginning of the sourcetext.
+
+You will need to install a library for the Diplay, Adafruit NeoMatrix in your Arduino IDE. You need to update your Arduino-IDE
+to be able to drive the ESP-Boards.
